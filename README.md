@@ -85,31 +85,22 @@ me.say_hi()
 ## 📊 GitHub 统计 / GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haimbeau1o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Haimbeau1o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haimbeau1o&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Haimbeau1o">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Haimbeau1o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Haimbeau1o&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </a>
 </p>
 
 ---
 
 ## 🎯 精选项目 / Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Haimbeau1o/thesis-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haimbeau1o&repo=thesis-optimizer&theme=tokyonight&hide_border=true" alt="thesis-optimizer" />
-  </a>
-  <a href="https://github.com/Haimbeau1o/thesis-writer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haimbeau1o&repo=thesis-writer&theme=tokyonight&hide_border=true" alt="thesis-writer" />
-  </a>
-</p>
-
-### 🌟 值得一看 / Worth Checking Out
-
-- **[thesis-optimizer](https://github.com/Haimbeau1o/thesis-optimizer)** - 学术论文智能优化系统 | 降AI检测 + 降查重 + 学术润色
-- **[thesis-writer](https://github.com/Haimbeau1o/thesis-writer)** - 学位论文撰写助手 | 从选题到定稿的全流程支持
+| 📦 项目 | 📝 描述 |
+|:---|:---|
+| [📚 **thesis-optimizer**](https://github.com/Haimbeau1o/thesis-optimizer) | 学术论文智能优化系统 \\| 降AI检测 + 降查重 + 学术润色 |
+| [📝 **agent-lab**](https://github.com/Haimbeau1o/agent-lab) | AI Agent 实验室 \\| 探索智能体应用 |
+| [🧠 **RDIM-Lab**](https://github.com/Haimbeau1o/RDIM-Lab) | 深度学习研究实验室 |
+| [🔧 **AdapTFormer**](https://github.com/Haimbeau1o/AdapTFormer) | Transformer 适应性研究 |
 
 <details>
 <summary>💭 项目哲学 / Project Philosophy</summary>
@@ -123,16 +114,6 @@ me.say_hi()
 > - 🌍 **开源** - 让知识自由流动
 
 </details>
-
----
-
-## 🏆 成就展示 / Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Haimbeau1o&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
