@@ -30,13 +30,13 @@
 ```python
 class LiuWilliam:
     def __init__(self):
-        self.name = "刘学文 (Liu William)"
+        self.name = "Liu Xuewen (Liu William)"
         self.role = "Master's Student & AI Explorer"
         self.location = "Hebei University, China 🇨🇳"
         self.research_focus = ["NLP", "Large Language Models", "AI Applications"]
         self.interests = ["提效工具", "有趣项目", "开源社区"]
         self.current_vibe = "Making AI work for humans, not against them 🤖"
-    
+  
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together 🚀")
 
@@ -66,16 +66,16 @@ me.say_hi()
 <details>
 <summary>📦 常用工具 / Toolbox</summary>
 
-**语言 / Languages**  
+**语言 / Languages**
 `Python` `Go` `JavaScript` `LaTeX` `Bash`
 
-**AI/ML 框架 / Frameworks**  
+**AI/ML 框架 / Frameworks**
 `PyTorch` `TensorFlow` `HuggingFace 🤗` `LLaMA Factory` `Transformers`
 
-**开发工具 / Dev Tools**  
+**开发工具 / Dev Tools**
 `Git` `Docker` `Linux` `VSCode` `Vim` `Jupyter`
 
-**兴趣领域 / Interests**  
+**兴趣领域 / Interests**
 `NLP` `LLM` `Prompt Engineering` `Model Finetuning` `AI Agents` `提效工具`
 
 </details>
@@ -86,7 +86,7 @@ me.say_hi()
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haimbeau1o&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haimbeau1o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Haimbeau1o&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -114,9 +114,10 @@ me.say_hi()
 <details>
 <summary>💭 项目哲学 / Project Philosophy</summary>
 
-> "少有人做，但值得被留下的东西。"  
-> 
+> "少有人做，但值得被留下的东西。"
+>
 > 我专注于创建那些真正解决实际问题的工具，而不是追逐热点。每个项目都旨在：
+>
 > - 🎯 **提效** - 让重复的工作自动化
 > - 🎨 **有趣** - 让技术变得有温度
 > - 🌍 **开源** - 让知识自由流动
@@ -128,18 +129,10 @@ me.say_hi()
 ## 🏆 成就展示 / Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haimbeau1o&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Haimbeau1o&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  </a>
 </p>
-
----
-
-## 🐍 贡献图 / Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haimbeau1o/Haimbeau1o/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haimbeau1o/Haimbeau1o/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Haimbeau1o/Haimbeau1o/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
@@ -165,11 +158,11 @@ me.say_hi()
 <summary>🕹️ 点击查看我的游戏观 / Click to see my gaming philosophy</summary>
 
 > "代码是理性的艺术，游戏是感性的探索。"
-> 
-> 当大脑被代码和论文填满时，Steam 是我的避风港。  
-> 我相信好的游戏设计和好的代码设计有着相同的灵魂：  
+>
+> 当大脑被代码和论文填满时，Steam 是我的避风港。
+> 我相信好的游戏设计和好的代码设计有着相同的灵魂：
 > **优雅、直观、令人愉悦。**
-> 
+>
 > 如果你也在 Steam 上，随时来聊聊游戏或者代码！
 
 </details>
