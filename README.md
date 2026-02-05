@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Haimbeau1o/Haimbeau1o/main/banner.png" alt="Banner" width="100%"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Liu+William;做少有人做，但值得被留下的东西;Build+what+few+dare,+but+deserves+to+last." alt="Typing SVG" />
 </h1>
