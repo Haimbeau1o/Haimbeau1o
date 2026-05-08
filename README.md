@@ -9,7 +9,7 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM_ID">
+  <a href="https://steamcommunity.com/profiles/76561198374036139/">
     <img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 </p>
@@ -89,60 +89,11 @@ me.say_hi()
 
 ---
 
-## 🎯 精选项目 / Featured Projects
-
-| 📦 项目 | 📝 描述 |
-|:---|:---|
-| [📚 **thesis-optimizer**](https://github.com/Haimbeau1o/thesis-optimizer) | 学术论文智能优化系统 \\| 降AI检测 + 降查重 + 学术润色 |
-| [📝 **agent-lab**](https://github.com/Haimbeau1o/agent-lab) | AI Agent 实验室 \\| 探索智能体应用 |
-| [🧠 **RDIM-Lab**](https://github.com/Haimbeau1o/RDIM-Lab) | 深度学习研究实验室 |
-| [🔧 **AdapTFormer**](https://github.com/Haimbeau1o/AdapTFormer) | Transformer 适应性研究 |
-
-<details>
-<summary>💭 项目哲学 / Project Philosophy</summary>
-
-> "少有人做，但值得被留下的东西。"
->
-> 我专注于创建那些真正解决实际问题的工具，而不是追逐热点。每个项目都旨在：
->
-> - 🎯 **提效** - 让重复的工作自动化
-> - 🎨 **有趣** - 让技术变得有温度
-> - 🌍 **开源** - 让知识自由流动
-
-</details>
-
----
-
-## 📈 活动图表 / Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haimbeau1o&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 💬 随机开发者笑话 / Random Dev Joke
+##  随机开发者笑话 / Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </p>
-
----
-
-## 🎮 游戏人生 / Gaming Life
-
-<details>
-<summary>🕹️ 点击查看我的游戏观 / Click to see my gaming philosophy</summary>
-
-> "代码是理性的艺术，游戏是感性的探索。"
->
-> 当大脑被代码和论文填满时，Steam 是我的避风港。
-> 我相信好的游戏设计和好的代码设计有着相同的灵魂：
-> **优雅、直观、令人愉悦。**
->
-> 如果你也在 Steam 上，随时来聊聊游戏或者代码！
-
-</details>
 
 ---
 
