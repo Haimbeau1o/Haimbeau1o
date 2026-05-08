@@ -89,14 +89,6 @@ me.say_hi()
 
 ---
 
-##  随机开发者笑话 / Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</p>
-
----
-
 <div align="center">
 
 ### 💡 一起创造有趣的东西 / Let's Build Something Interesting
